@@ -35,3 +35,4 @@ echo - Windows: flutter run -d windows
 echo.
 
 pause
+

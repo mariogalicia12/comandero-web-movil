@@ -26,3 +26,4 @@ echo    Presiona Ctrl+C si quieres cancelar
 flutter run -d Pixel_5_API_33
 
 pause
+

@@ -84,3 +84,4 @@ flutter test
 4. **Para web:** `flutter run -d chrome`
 
 ¡El proyecto está completamente funcional y listo para usar!
+

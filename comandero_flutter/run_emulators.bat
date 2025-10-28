@@ -21,3 +21,4 @@ echo Ejecutando aplicacion en emulador de celular...
 flutter run -d Pixel_5_API_33
 
 pause
+

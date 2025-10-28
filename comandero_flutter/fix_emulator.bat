@@ -39,3 +39,4 @@ echo 7. Si aparece el emulador, ejecutando aplicacion...
 flutter run -d Medium_Tablet
 
 pause
+
